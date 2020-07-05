@@ -1,0 +1,10 @@
+{
+  "name": "pill-tong-filter-template",
+  "version": "1.0.0",
+  "description": "template code for pill-tong waf",
+  "main": "index.js",
+  "repository": "https://github.com/maverick-ksj/pill-tong-filter-template.git",
+  "author": "shj <kan02134@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
